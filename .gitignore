@@ -16,3 +16,6 @@ models/huggingface_cache/
 
 # Output files
 outputs/
+
+# Processed datasets
+data/processed/
