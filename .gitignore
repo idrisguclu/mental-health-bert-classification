@@ -19,3 +19,6 @@ outputs/
 
 # Processed datasets
 data/processed/
+
+# Personal notes
+NOTES.md
