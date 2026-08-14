@@ -23,4 +23,4 @@ data/processed/
 # Personal notes
 NOTES.md
 
-echo "models/" >> .gitignore
+models/
